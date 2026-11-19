@@ -7,7 +7,7 @@ I work across **software development, networking, IoT/embedded systems and AI**,
 | Project | Highlights |
 |---|---|
 | **AI fire detection and industrial safety system** | An ESP32 sensor node and a Raspberry Pi 5 camera running YOLOv8n, linked over MQTT, with two-sensor agreement logic |
-| **Routed network with SDN controller integration** | A four-router VyOS network running IS-IS, iBGP peering with OpenDaylight, SNMP monitoring and link-fault testing (GNS3 / VirtualBox) |
+| [**Routed network with SDN controller integration**](https://github.com/mlibompange/vyos-isis-bgp-sdn-lab) | A four-router VyOS network running IS-IS, iBGP peering with OpenDaylight, SNMP monitoring and link-fault testing (GNS3 / VirtualBox) |
 | **Network analysis and simulation** | Backbone topology analysis in Python (NetworkX, PuLP), plus Packet Tracer scenarios and Wireshark captures |
 | **Task Scheduler (Java)** | A cross-platform GUI/CLI app with multi-threaded scheduling and MVC, Singleton and Observer patterns |
 | **Flappy Bird clone** | A browser game with real-time rendering, collision detection and a game loop |
